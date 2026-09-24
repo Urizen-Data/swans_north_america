@@ -1,6 +1,8 @@
 # swans_north_america
 
-## Лебеди Северной Америки
+![Общий вид дашборда](screenshots/dashboard_overview.png)
+
+[![Скачать дашборд Power BI](https://img.shields.io/badge/📥_Скачать_дашборд-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](powerbi/swans_north_america.pbix)
 
 Исследование географии регистраций трёх видов лебедей в Северной Америке за **1980–2023 годы**:
 
@@ -27,8 +29,6 @@
 | `PBI_SWANS.ipynb` | Подготовка таблиц и показателей для Power BI |
 | `screenshots/` | Скриншоты страниц и состояний дашборда |
 | `README.md` | Описание проекта и руководство по дашборду |
-
-> Если фактические имена ноутбуков отличаются, замените их в таблице на имена файлов в репозитории.
 
 ## Данные и единица анализа
 
@@ -86,17 +86,9 @@
 
 ### Скриншоты
 
-Добавьте изображения в папку `screenshots/` и замените имена файлов при необходимости.
-
-![Общий вид дашборда](screenshots/dashboard_overview.png)
-
-<!-- PLACEHOLDER: добавьте дополнительные скриншоты отдельных областей дашборда при необходимости -->
 
 ### Ссылка на дашборд
 
-<!-- PLACEHOLDER: вставьте ссылку Power BI, если она появится -->
-
-**Power BI:** `https://app.powerbi.com/...`
 
 ### Управление
 
@@ -178,10 +170,11 @@
 
 Для повторения анализа откройте ноутбуки в Jupyter Notebook или JupyterLab и последовательно выполните ячейки. Перед запуском проверьте пути к исходным данным и установленные библиотеки Python, используемые в ноутбуках.
 
-<!-- PLACEHOLDER: добавьте requirements.txt или список зависимостей -->
 
 ## Автор
 
 Юрий Кузнецов
 
-<!-- PLACEHOLDER: добавьте ссылку на профиль автора или контакт -->
+[![GitHub](https://img.shields.io/badge/GitHub-Urizen--Data-181717?logo=github)](https://github.com/Urizen-Data)
+[![Telegram](https://img.shields.io/badge/Telegram-@urizen6-26A5E4?logo=telegram&logoColor=white)](https://t.me/urizen6)
+[![Email](https://img.shields.io/badge/Email-urizen@rambler.ru-D14836?logo=maildotru&logoColor=white)](mailto:urizen@rambler.ru)
