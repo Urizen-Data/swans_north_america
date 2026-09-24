@@ -1,4 +1,3 @@
-# swans_north_america
 
 ![Общий вид дашборда](screenshots/dashboard_overview.png)
 
