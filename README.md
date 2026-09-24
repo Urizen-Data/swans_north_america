@@ -174,4 +174,6 @@
 
 Юрий Кузнецов
 
-<!-- PLACEHOLDER: добавьте ссылку на профиль автора или контакт -->
+[![GitHub](https://img.shields.io/badge/GitHub-Urizen--Data-181717?logo=github)](https://github.com/Urizen-Data)
+[![Telegram](https://img.shields.io/badge/Telegram-@urizen6-26A5E4?logo=telegram&logoColor=white)](https://t.me/urizen6)
+[![Email](https://img.shields.io/badge/Email-urizen@rambler.ru-D14836?logo=maildotru&logoColor=white)](mailto:urizen@rambler.ru)
