@@ -2,6 +2,8 @@
 
 ![Общий вид дашборда](screenshots/dashboard_overview.png)
 
+📥 **[Скачать дашборд Power BI (powerbi/swans_north_america.pbix)](powerbi/swans_north_america.pbix)**
+
 Исследование географии регистраций трёх видов лебедей в Северной Америке за **1980–2023 годы**:
 
 - лебедь-трубач;
