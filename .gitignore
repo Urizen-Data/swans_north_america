@@ -1,0 +1,2 @@
+notebooks/raw_data/*.csv
+.ipynb_checkpoints/
